@@ -1,0 +1,17 @@
+Sources Used In Addition to Provided Links:
+
+AI Perception:
+https://docs.unrealengine.com/5.0/en-US/ai-perception-in-unreal-engine/
+https://www.raywenderlich.com/238-unreal-engine-4-tutorial-artificial-intelligence#toc-anchor-019
+
+Patrol:
+https://www.youtube.com/watch?v=xNckkj9HFvs 
+
+Jumping on heads:
+https://www.youtube.com/watch?v=uTD9dFVzfr8
+
+Hearing:
+https://www.youtube.com/watch?v=w0t75DdkazU
+
+Particles:
+https://www.raywenderlich.com/270-unreal-engine-4-particle-systems-tutorial
